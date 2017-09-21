@@ -3,5 +3,5 @@
 *.pyc
 *.p
 *.pkl 
-save.*
+save.data-*
 events.*
