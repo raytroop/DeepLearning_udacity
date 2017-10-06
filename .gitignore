@@ -14,3 +14,7 @@
 *.pkl 
 events.*
 *.data-00000-of-00001
+*.gz
+*.mat
+*.zip
+*.jpg
